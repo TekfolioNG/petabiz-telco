@@ -67,8 +67,8 @@
                 <!-- Managed Services -->
                 <div class="flex flex-col md:flex-row items-center gap-16 max-w-6xl mx-auto">
                     <div class="w-full md:w-1/2 lg:w-[40%]">
-                        <img src="@/assets/img/telecommunications-antenna-radio-television-petabiz.jpg"
-                            alt="Managed Services" class="w-full h-64 object-cover rounded-lg" />
+                        <img src="@/assets/img/telecommunications-towers-petabiz.jpg" alt="Managed Services"
+                            class="w-full h-64 object-cover rounded-lg" />
                     </div>
                     <div class="w-full md:w-1/2 lg:w-[55%] bg-white p-8 rounded-lg shadow-xl">
                         <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Managed Services</h2>

@@ -135,10 +135,10 @@
                     <div class="w-full md:w-1/2 lg:w-3/5 bg-[#F0F5FA] p-8 rounded-lg shadow-md">
                         <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Network Security</h2>
                         <p class="text-gray-600 mb-4">
-                            We deliver reliable, end-to-end telco infrastructure solutions built to support modern
-                            connectivity demands. From fibre rollout to network installation, our services ensure
-                            high-performance, scalable networks for businesses, residential estates, and service
-                            providers.
+                            Advanced security solutions, including firewalls and VPNs, to protect your network from
+                            cyber threats and
+                            ensure data integrity. Our solutions are designed to safeguard your business from evolving
+                            security risks.
                         </p>
                         <p class="text-gray-600">
                             From threat detection to incident response, we provide comprehensive security solutions
@@ -151,20 +151,22 @@
                 <!-- Power Conditioning Systems -->
                 <div class="flex flex-col md:flex-row items-center gap-12 max-w-6xl mx-auto">
                     <div class="w-full md:w-1/2 lg:w-2/5">
-                        <img src="@/assets/img/telecommunications-towers-petabiz.jpg" alt="Power Conditioning Systems"
+                        <img src="@/assets/img/Power-Conditioning.png" alt="Power Conditioning Systems"
                             class="w-full h-64 object-cover rounded-lg" />
                     </div>
                     <div class="w-full md:w-1/2 lg:w-3/5 bg-[#F0F5FA] p-8 rounded-lg shadow-md">
-                        <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Telco Infrastructure Deployment</h2>
+                        <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Power Conditioning Systems</h2>
                         <p class="text-gray-600 mb-4">
-                            We deliver reliable, end-to-end telco infrastructure solutions built to support modern
-                            connectivity demands. From fibre rollout to network installation, our services ensure
-                            high-performance, scalable networks for businesses, residential estates, and service
-                            providers.
+                            Uninterruptible power supplies (UPS) and inverters that ensure stable and reliable power for
+                            your critical
+                            systems. Our solutions are designed to protect your infrastructure from power outages,
+                            surges, and
+                            fluctuations.
                         </p>
                         <p class="text-gray-600">
-                            Whether you need full fibre-to-the-home (FTTH) deployment or enterprise network upgrades, we
-                            provide the expertise and tools needed to keep you connected and ready for the future.
+                            From small offices to large data centers, we provide power solutions that ensure
+                            uninterrupted operations
+                            and business continuity.
                         </p>
                     </div>
                 </div>

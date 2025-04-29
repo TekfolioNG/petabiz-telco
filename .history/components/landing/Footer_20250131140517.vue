@@ -123,14 +123,14 @@ const currentYear = computed(() => new Date().getFullYear());
 
 // Services data
 const services = [
-  { name: 'Enterprise Servers' },
-  { name: 'Enterprise Storage Solutions' },
-  { name: 'Converged & Hyper-Converged Infrastructure' },
-  { name: 'Routers & Switches (Core & Access Layers)' },
-  { name: 'Wireless Connectivity Solutions (Access Points & Controllers)' },
-  { name: 'Network Security Appliances (Firewalls, VPNs & Intrusion Prevention' },
-  { name: 'Power Conditioning Systems (UPS & Inverters)' },
-  { name: 'Unified Communications Tools (IP Phones, VoIP & Video Conferencing Systems)' },
+  { name: 'Enterprise Servers', href: '/downstream-operations' },
+  { name: 'Enterprise Storage Solutions', href: '/manpower-services' },
+  { name: 'Converged & Hyper-Converged Systems', href: '/project-management' },
+  { name: 'Routers & Switches', href: '/contract-management' },
+  { name: 'Wireless Solutions (Access Points & Controllers)', href: '/oil-and-gas-chemical-processing' },
+  { name: 'Network Security (Firewalls & VPNs)', href: '/marine-operations' },
+  { name: 'Power Conditioning Systems (UPS & Inverters)', href: '/corrosion-management' },
+  { name: 'Unified Communications (IP Phones & Video Conferencing Systems)', href: '/corrosion-management' },
 ];
 
 // Products data

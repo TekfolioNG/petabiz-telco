@@ -67,29 +67,30 @@
                 <!-- Managed Services -->
                 <div class="flex flex-col md:flex-row items-center gap-16 max-w-6xl mx-auto">
                     <div class="w-full md:w-1/2 lg:w-[40%]">
-                        <img src="@/assets/img/telecommunications-antenna-radio-television-petabiz.jpg"
-                            alt="Managed Services" class="w-full h-64 object-cover rounded-lg" />
+                        <img src="@/assets/img/Managed-Services.jpg" alt="Managed Services"
+                            class="w-full h-64 object-cover rounded-lg" />
                     </div>
                     <div class="w-full md:w-1/2 lg:w-[55%] bg-white p-8 rounded-lg shadow-xl">
                         <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Managed Services</h2>
                         <div class="space-y-4">
                             <p class="text-gray-600">
-                                We provide end-to-end IT support to keep your systems reliable, secure, and running
-                                smoothly. Our
-                                expert team handles everything from network management to software updates, ensuring
-                                your IT
-                                infrastructure is always up-to-date and optimized.
+                                Our managed services provide end-to-end IT support and maintenance to keep your systems
+                                running smoothly.
+                                We offer proactive monitoring, troubleshooting, and updates to ensure your
+                                infrastructure
+                                remains reliable
+                                and secure.
                             </p>
                             <p class="text-gray-600">
-                                Our team offers 24/7 monitoring, routine maintenance, and rapid
-                                troubleshooting—resolving issues before they affect your operations.
+                                With our 24/7 support, you can rest assured that your IT environment is in expert hands.
+                                We
+                                take a
+                                proactive approach to identify and resolve issues before they impact your operations.
                             </p>
                             <p class="text-gray-600">
-                                We tailor our managed services to your specific needs, offering flexible plans and
-                                scalable solutions to fit your business requirements.
-                            </p>
-                            <p class="text-gray-600">
-                                From daily upkeep to emergency response, your IT environment stays in expert hands.
+                                From routine maintenance to emergency support, we are committed to keeping your systems
+                                running at peak
+                                performance.
                             </p>
                         </div>
                     </div>

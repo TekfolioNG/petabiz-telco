@@ -31,9 +31,12 @@
                             </p>
                             <p class="text-gray-600">
                                 From network architecture to hardware selection, we handle the details—so your
-                                infrastructure supports real growth and lasting performance. Our commitment to your
-                                infrastructural needs ensures that your business can continue to thrive in the
-                                ever-evolving digital landscape.
+                                infrastructure supports real growth and lasting performance.
+                            </p>
+                            <p class="text-gray-600">
+                                From network architecture to hardware selection, we handle every detail to ensure your
+                                IT
+                                infrastructure supports your business growth and innovation.
                             </p>
                         </div>
                     </div>
@@ -49,16 +52,27 @@
                         <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Installation & Configuration</h2>
                         <div class="space-y-4">
                             <p class="text-gray-600">
-                                We handle the setup and optimization of enterprise systems—servers, storage, networking,
-                                and security—with minimal disruption to your operations.
+                                Our installation and configuration services ensure seamless deployment of enterprise
+                                systems
+                                with minimal
+                                downtime. From servers and storage to networking and security, our team handles every
+                                aspect
+                                of setup and
+                                optimization.
                             </p>
                             <p class="text-gray-600">
-                                Our team configures your infrastructure for peak performance and reliability, using best
-                                practices to ensure everything runs smoothly and is easy to manage.
+                                We ensure your systems are configured for maximum efficiency and performance, so you can
+                                focus on running
+                                your business. Our experts follow best practices to deliver solutions that are both
+                                robust
+                                and easy to
+                                manage.
                             </p>
                             <p class="text-gray-600">
-                                From small offices to large data centers, we tailor each deployment to fit your needs
-                                and ensure a seamless implementation.
+                                Whether it's a small office or a large data center, we provide tailored solutions that
+                                meet
+                                your specific
+                                needs and ensure a smooth implementation process.
                             </p>
                         </div>
                     </div>
@@ -67,29 +81,30 @@
                 <!-- Managed Services -->
                 <div class="flex flex-col md:flex-row items-center gap-16 max-w-6xl mx-auto">
                     <div class="w-full md:w-1/2 lg:w-[40%]">
-                        <img src="@/assets/img/telecommunications-antenna-radio-television-petabiz.jpg"
-                            alt="Managed Services" class="w-full h-64 object-cover rounded-lg" />
+                        <img src="@/assets/img/Managed-Services.jpg" alt="Managed Services"
+                            class="w-full h-64 object-cover rounded-lg" />
                     </div>
                     <div class="w-full md:w-1/2 lg:w-[55%] bg-white p-8 rounded-lg shadow-xl">
                         <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Managed Services</h2>
                         <div class="space-y-4">
                             <p class="text-gray-600">
-                                We provide end-to-end IT support to keep your systems reliable, secure, and running
-                                smoothly. Our
-                                expert team handles everything from network management to software updates, ensuring
-                                your IT
-                                infrastructure is always up-to-date and optimized.
+                                Our managed services provide end-to-end IT support and maintenance to keep your systems
+                                running smoothly.
+                                We offer proactive monitoring, troubleshooting, and updates to ensure your
+                                infrastructure
+                                remains reliable
+                                and secure.
                             </p>
                             <p class="text-gray-600">
-                                Our team offers 24/7 monitoring, routine maintenance, and rapid
-                                troubleshooting—resolving issues before they affect your operations.
+                                With our 24/7 support, you can rest assured that your IT environment is in expert hands.
+                                We
+                                take a
+                                proactive approach to identify and resolve issues before they impact your operations.
                             </p>
                             <p class="text-gray-600">
-                                We tailor our managed services to your specific needs, offering flexible plans and
-                                scalable solutions to fit your business requirements.
-                            </p>
-                            <p class="text-gray-600">
-                                From daily upkeep to emergency response, your IT environment stays in expert hands.
+                                From routine maintenance to emergency support, we are committed to keeping your systems
+                                running at peak
+                                performance.
                             </p>
                         </div>
                     </div>
