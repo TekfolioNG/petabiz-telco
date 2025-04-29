@@ -155,7 +155,7 @@
                             class="w-full h-64 object-cover rounded-lg" />
                     </div>
                     <div class="w-full md:w-1/2 lg:w-3/5 bg-[#F0F5FA] p-8 rounded-lg shadow-md">
-                        <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Fibre/RAN Network Integration</h2>
+                        <h2 class="text-2xl font-bold text-[#1E3A5F] mb-4">Telco Infrastructure Deployment</h2>
                         <p class="text-gray-600 mb-4">
                             We deliver reliable, end-to-end telco infrastructure solutions built to support modern
                             connectivity demands. From fibre rollout to network installation, our services ensure
