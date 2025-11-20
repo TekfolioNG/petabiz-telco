@@ -38,6 +38,7 @@
 
 <script setup>
 // Import all logo images
+import cisco from '@/assets/img/cisco.png';
 import dell from '@/assets/img/dell.png';
 import eset from '@/assets/img/eset.png';
 import fortinet from '@/assets/img/fortinet.png';
@@ -58,6 +59,7 @@ import vmware from '@/assets/img/vmware.png';
 // Split the logos into two separate lists
 const firstRowLogos = [
   [
+    cisco,
     oracle,
     dell,
     microsoft,

@@ -135,6 +135,7 @@ const services = [
 
 // Products data
 const products = [
+  'Cisco Solutions',
   'Oracle Enterprise Solutions',
   'Huawei Innovations',
   'IBM Enterprise Systems',

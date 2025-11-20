@@ -44,7 +44,7 @@ import shieldCheckIcon from '@/assets/icons/shield-check.svg';
 const features = [
   {
     title: "Authorized OEM Partner",
-    description: "Direct partnerships with leading manufacturers including Oracle, IBM, Dell EMC, and Microsoft ensure authentic products and premium support.",
+    description: "Direct partnerships with leading manufacturers including Cisco, Oracle, IBM, Dell EMC, and Microsoft ensure authentic products and premium support.",
     icon: certificateIcon,
     href: "/partnerships"
   },
@@ -58,25 +58,25 @@ const features = [
     title: "Technical Expertise",
     description: "Certified engineers and solution architects with deep expertise across multiple technologies to design and implement optimal solutions.",
     icon: chipIcon,
-
+  
   },
   {
     title: "Global Supply Chain",
     description: "Robust procurement network and inventory management ensuring reliable access to critical technology components and rapid fulfillment.",
     icon: globeIcon,
-
+  
   },
   {
     title: "24/7 Support",
     description: "Round-the-clock technical support and maintenance services to keep your mission-critical systems running at peak performance.",
     icon: headsetIcon,
-
+  
   },
   {
     title: "Quality Assurance",
     description: "Rigorous testing and validation processes guarantee that all products meet stringent quality standards and performance requirements.",
     icon: shieldCheckIcon,
-
+  
   }
 ];
 </script>
